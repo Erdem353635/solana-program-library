@@ -59,7 +59,7 @@
     },
     "devDependencies": {
         "@solana/spl-memo": "^0.2.2",
-        "@solana/web3.js": "^1.47.4",
+        "@solana/web3.js": "^1.78.4",
         "@types/chai-as-promised": "^7.1.4",
         "@types/chai": "^4.3.3",
         "@types/mocha": "^9.1.0",
