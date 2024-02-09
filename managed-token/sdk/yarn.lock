@@ -37,10 +37,20 @@
     bn.js "^5.2.0"
     debug "^4.3.3"
 
-"@metaplex-foundation/rustbin@^0.3.0", "@metaplex-foundation/rustbin@^0.3.1":
+"@metaplex-foundation/rustbin@^0.3.0":
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/@metaplex-foundation/rustbin/-/rustbin-0.3.1.tgz#bbcd61e8699b73c0b062728c6f5e8d52e8145042"
   integrity sha512-hWd2JPrnt2/nJzkBpZD3Y6ZfCUlJujv2K7qUfsxdS0jSwLrSrOvYwmNWFw6mc3lbULj6VP4WDyuy9W5/CHU/lQ==
+  dependencies:
+    debug "^4.3.3"
+    semver "^7.3.7"
+    text-table "^0.2.0"
+    toml "^3.0.0"
+
+"@metaplex-foundation/rustbin@^0.3.5":
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/@metaplex-foundation/rustbin/-/rustbin-0.3.5.tgz#56d028afd96c2b56ad3bbea22ff454adde900e8c"
+  integrity sha512-m0wkRBEQB/8krwMwKBvFugufZtYwMXiGHud2cTDAv+aGXK4M90y0Hx67/wpu+AqqoQfdV8VM9YezUOHKD+Z5kA==
   dependencies:
     debug "^4.3.3"
     semver "^7.3.7"
